@@ -1,4 +1,5 @@
-*IMPORTANT* Always consider backing up your config before updating.
+BROWSER COIN MINER
+IMPORTANT* Always consider backing up your config before updating.
 
 # V2.9.6 #
 -Fixed more bugs created by windows update.
